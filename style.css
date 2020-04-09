@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+img {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.only {
+	margin-top: -10px;
+}
+
+.block {
+	text-align: center;
+}
